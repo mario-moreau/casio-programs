@@ -19,10 +19,14 @@ I personally use these programs to verify my answers, and not to do the exercise
 #### You are the only person responsible if you get caught cheating. I can't be held responsible for that.
 
 ## Programs
+#### For Casio calculator (Graph 25/35+USB/75/85/95, not all models are listed):
 - Casiopyt.g1a : a python implementation for Casio calculators. Create your programs on your PC and execute them on your calculator.
 - Edit.g1a : a text editor for your calculator. A good way to have ... useful text on your calculator.
 - Eigenmat.g1a : a formal calculus program. Allows you to derivate, integrate, factorize functions and do many other things.
 - Ftune.g1a : overclocking is also for calculators 😉 Just beware of stability issues, it never happened with my calculator, but better be safe than sorry.
+
+#### For PC:
+- CASIO FA-124.exe : Fa-124 is a program to interface with your Casio calculator from a PC, using a mini-USB to USB cable.
 
 ## Installing a program
 You just need to copy the corresponding .g1a file into the calculator's 'storage memory'. Don't copy it into the 'main memory' (anyway, you probably won't have enough space to do so).
@@ -30,6 +34,5 @@ As models aren't all the same when it comes to communication with the outside wo
 - use a 3-pin cable to transfer the program from a friend's Casio
 - use a mini-USB cable to transfer the file from your PC, thanks to the FA-124 software
 - use an SD card, copy the files onto it and then copying them to the Casio's memory directly
-##### There also seem to exist a 3-pin to USB cable which would allow transfers from PCs to Casios that only have a 3-pin port.
 
 You might have to free up some space and order the calculator to 'optimize' its storage before doing so.
