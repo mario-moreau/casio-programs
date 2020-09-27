@@ -24,12 +24,17 @@ I personally use these programs to verify my answers, and not to do the exercise
 - Edit.g1a : a text editor for your calculator. A good way to have ... useful text on your calculator.
 - Eigenmat.g1a : a formal calculus program. Allows you to derivate, integrate, factorize functions and do many other things.
 - Ftune.g1a : overclocking is also for calculators 😉 Just beware of stability issues, it never happened with my calculator, but better be safe than sorry.
+- 10216.g1m : convert binary to hexadecimal and decimal, or decimal to hexadecimal and binary.
+- Proconve.g1r : a tool to convert units.
+- Bmpreade.g1a : read BMP files from your calculator. Nice to have if something is hard to be represented by text only. PASCAL.bmp is a test file.
 
 #### For PC:
 - CASIO FA-124.exe : Fa-124 is a program to interface with your Casio calculator from a PC, using a mini-USB to USB cable.
 
 ## Installing a program
-You just need to copy the corresponding .g1a file into the calculator's 'storage memory'. Don't copy it into the 'main memory' (anyway, you probably won't have enough space to do so).
+- g1a files are meant to be copied into the calculator's 'storage memory'. Don't copy them into the 'main memory'. These programs will be available through the main menu.
+- g1m/g1r files are meant to be copied into 'main memory', These programs will be accessible through the 'program' menu.
+
 As models aren't all the same when it comes to communication with the outside world, you can either, depending on your model:
 - use a 3-pin cable to transfer the program from a friend's Casio
 - use a mini-USB cable to transfer the file from your PC, thanks to the FA-124 software
